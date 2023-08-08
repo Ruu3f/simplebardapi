@@ -104,7 +104,7 @@ class Bard:
             "language_code": lang_code,
             "code": code,
         }
-        return answer
+        return answer["content"]
 
     def _create_session(self):
         """
