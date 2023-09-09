@@ -3,7 +3,7 @@
 [![Status](https://img.shields.io/pypi/status/simplebardapi)](https://pypi.org/project/simplebardapi)
 
 # simplebardapi
-A simpler and faster version of dsdanielpark's bardapi.
+A simpler and faster version of BardAPI.
 
 ## Get started:
 
