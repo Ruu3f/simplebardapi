@@ -11,7 +11,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/Ruu3f/simplebardapi",
     author="Ruu3f",
-    license="GPLv2",
+    license="GPLv3",
     keywords=[
         "artificial-intelligence",
         "google-bard-api",
