@@ -5,8 +5,8 @@ with open("README.md", encoding="utf-8") as f:
 
 setup(
     name="simplebardapi",
-    version="1.0.0",
-    description="A simpler and faster version of dsdanielpark's bardapi.",
+    version="1.0.1",
+    description="A simpler and faster version of BardAPI.",
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/Ruu3f/simplebardapi",
